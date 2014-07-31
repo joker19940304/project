@@ -1,10 +1,2 @@
-adsdsadasdaaaaaaaaaa
-dsas
-dasss
-dsssssss
-dasssss
-sqwwwwwwww
-tyutyuuty
-tg
-ghfghfgh
-dwqqasdaddaas
+Git is a distributed version control system
+git is free software
